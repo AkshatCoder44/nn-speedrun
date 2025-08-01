@@ -6,7 +6,7 @@ function sigmoidD(x) {
   let s = sigmoid(x);
   return s * (1 - s);
 }
-
+//connections and declarations for calculus
 let w1 = Math.random();
 let w2 = Math.random();
 let b1 = Math.random();
