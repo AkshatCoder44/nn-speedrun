@@ -7,6 +7,7 @@ function sid(x) {
   return s * (1 - s);
 }
 
+//vars
 let w1 = Math.random();
 let b1 = Math.random();
 
